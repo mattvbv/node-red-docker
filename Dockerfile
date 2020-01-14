@@ -1,4 +1,4 @@
-FROM nodered/node-red:1.0.3-2
+FROM nodered/node-red:1.0.3-2-12-arm32v7
 
 USER node-red
 
